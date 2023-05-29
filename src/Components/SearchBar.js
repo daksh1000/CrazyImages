@@ -30,7 +30,7 @@ useEffect(() => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization':'Bearer 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'
+          'Authorization':'Bearer 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'
         },
         body: JSON.stringify(postData),
       });
